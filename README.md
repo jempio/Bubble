@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Bubble
 
 # Journaling App
